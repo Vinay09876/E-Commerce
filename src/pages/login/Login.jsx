@@ -23,7 +23,7 @@ function Login() {
           <button type="submit">Login</button>
           <div className="register-link">
             <p>
-              don't have an account? <Link to="/register">Register</Link>
+              don't have an account? <Link to="https://e-commerce-psi-seven-91.vercel.app/register">Register</Link>
             </p>
           </div>
         </form>
