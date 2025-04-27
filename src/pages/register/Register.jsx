@@ -1,5 +1,6 @@
 import React from "react";
 import "./Register.css";
+import { Link } from "react-router-dom";
 
 function Register() {
   return (
@@ -31,7 +32,7 @@ function Register() {
           <button type="submit">Create Account</button>
           <div className="register-link">
             <p>
-              Already have an account? <a href="https://e-commerce-psi-seven-91.vercel.app/login">Login</a>
+              Already have an account? <Link to="https://e-commerce-psi-seven-91.vercel.app/login">Login</Link>
             </p>
           </div>
         </form>
