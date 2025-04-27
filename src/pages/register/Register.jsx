@@ -31,7 +31,7 @@ function Register() {
           <button type="submit">Create Account</button>
           <div className="register-link">
             <p>
-              Already have an account? <a href="/login">Login</a>
+              Already have an account? <a href="https://e-commerce-psi-seven-91.vercel.app/login">Login</a>
             </p>
           </div>
         </form>
